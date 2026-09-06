@@ -1,0 +1,28 @@
+{
+  "prefix": "v.",
+  "names": {
+    "welcomeChannel": "welcome",
+    "genderChannel": "pilih-role",
+    "verificationCategory": "Verifikasi Gender",
+    "verificationForum": "voice-note-verifikasi",
+    "femaleRole": "Perempuan",
+    "maleRole": "Laki-laki",
+    "unverifiedRole": "Unverified",
+    "adminRole": "Admin"
+  },
+  "ids": {
+    "welcomeChannel": "1534945608220278927",
+    "genderChannel": "1541629316738060348",
+    "verificationCategory": "1541629312707334264",
+    "verificationForum": "1541629319061708881",
+    "femaleRole": "1541629304935424133",
+    "maleRole": "1541629307057872966",
+    "unverifiedRole": "1534982101965864990",
+    "adminRole": "1537995890655109222",
+    "genderPromptMessageId": "1541629321389809736"
+  },
+  "messages": {
+    "welcomeGifUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlub21ueXZ6dnB4bmZiZW90Zmd4dXNyeTVmMDN1NHN0eGNoc3ZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0N62TetjqiHKWhX371/giphy.gif",
+    "rulesChannelMention": "<#1534555220665831425>"
+  }
+}
